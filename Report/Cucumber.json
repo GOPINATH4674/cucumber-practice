@@ -1,0 +1,306 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 739300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Step_Definition.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Login Functionality",
+        "description": "",
+        "id": "checking-the-booking-functionality-of-and-adactin-application;login-functionality;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 436300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Step_Definition.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2829098900,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user Must launch The Url",
+            "match": {
+              "location": "Step_Definition.user_Must_launch_The_Url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 109272400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user Enter The \"Gop\" In The Username Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Gop",
+                  "offset": 16
+                }
+              ],
+              "location": "Step_Definition.user_Enter_The_In_The_Username_Field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 72671300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Enter The \"123\" In The Password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123",
+                  "offset": 16
+                }
+              ],
+              "location": "Step_Definition.user_Enter_The_In_The_Password_Field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 592449000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Click the login Button And It Navigates To The Search Hotel Page",
+            "match": {
+              "location": "Step_Definition.user_Click_the_login_Button_And_It_Navigates_To_The_Search_Hotel_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 156800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Step_Definition.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Login Functionality",
+        "description": "",
+        "id": "checking-the-booking-functionality-of-and-adactin-application;login-functionality;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 164700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Step_Definition.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 386344100,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user Must launch The Url",
+            "match": {
+              "location": "Step_Definition.user_Must_launch_The_Url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 66697400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user Enter The \"Gopi\" In The Username Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Gopi",
+                  "offset": 16
+                }
+              ],
+              "location": "Step_Definition.user_Enter_The_In_The_Username_Field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 68401900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Enter The \"456\" In The Password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "456",
+                  "offset": 16
+                }
+              ],
+              "location": "Step_Definition.user_Enter_The_In_The_Password_Field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 520923600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Click the login Button And It Navigates To The Search Hotel Page",
+            "match": {
+              "location": "Step_Definition.user_Click_the_login_Button_And_It_Navigates_To_The_Search_Hotel_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 144100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Step_Definition.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Login Functionality",
+        "description": "",
+        "id": "checking-the-booking-functionality-of-and-adactin-application;login-functionality;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 57000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Step_Definition.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 308662500,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user Must launch The Url",
+            "match": {
+              "location": "Step_Definition.user_Must_launch_The_Url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 72556200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user Enter The \"GOPI4674\" In The Username Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "GOPI4674",
+                  "offset": 16
+                }
+              ],
+              "location": "Step_Definition.user_Enter_The_In_The_Username_Field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 70402800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Enter The \"Gopi@4674\" In The Password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Gopi@4674",
+                  "offset": 16
+                }
+              ],
+              "location": "Step_Definition.user_Enter_The_In_The_Password_Field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2494065200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Click the login Button And It Navigates To The Search Hotel Page",
+            "match": {
+              "location": "Step_Definition.user_Click_the_login_Button_And_It_Navigates_To_The_Search_Hotel_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Checking the Booking Functionality of and Adactin Application",
+    "description": "",
+    "id": "checking-the-booking-functionality-of-and-adactin-application",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/feature/Adactin2.feature"
+  }
+]
